@@ -6,12 +6,13 @@
 
  > Так-же хожу в студию Martian Teapots
 
-   <style>
-   .blink {
-    animation: blink 2s infinite; /* Параметры анимации */
-   }
-   @keyframes blink {
-    from { opacity: 1; /* Непрозрачный текст */ }
-    to { opacity: 0; /* Прозрачный текст */ }
-   }
-  </style>
+ >
+<style>
+ .blink {
+ animation: blink 2s infinite; /* Параметры анимации */
+ }
+ @keyframes blink {
+ from { opacity: 1; /* Непрозрачный текст */ }
+ to { opacity: 0; /* Прозрачный текст */ }
+ }
+</style>
