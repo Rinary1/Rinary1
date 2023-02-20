@@ -4,6 +4,4 @@
 
  \> Я заинтересован в изучении Java, Java script а так-же Lua
 
- \> Так-же хожу в студию Martian Teapots
-
  \>
