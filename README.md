@@ -1,9 +1,17 @@
-<span font="color:&#x1F49A;"> > </span> Привет, я Wolfrik
+ > Привет, я Wolfrik
 
-<span style="color:green"> > </span> В основном использую Python, C#, Blender и базу данных Sqlite3
+ > В основном использую Python, C#, Blender и базу данных Sqlite3
 
-<span style="color:green"> > </span> Я заинтересован в изучении Java, Java script а так-же Lua
+ > Я заинтересован в изучении Java, Java script а так-же Lua
 
-<span style="color:green"> > </span> Так-же хожу в студию Martian Teapots
+ > Так-же хожу в студию Martian Teapots
 
-<span clss="blink"> > </span>
+   <style>
+   .blink {
+    animation: blink 2s infinite; /* Параметры анимации */
+   }
+   @keyframes blink {
+    from { opacity: 1; /* Непрозрачный текст */ }
+    to { opacity: 0; /* Прозрачный текст */ }
+   }
+  </style>
