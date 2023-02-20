@@ -5,4 +5,6 @@
 +4>
 +5> Я заинтересован в изучении Java, Java script а так-же Lua
 +6>
++7>
++8> Discord: Wolfrik#8341
 ```
