@@ -1,4 +1,4 @@
-<span font="color:💚"> > </span> Привет, я Wolfrik
+<span font="color:&#x1F49A;"> > </span> Привет, я Wolfrik
 
 <span style="color:green"> > </span> В основном использую Python, C#, Blender и базу данных Sqlite3
 
