@@ -1,6 +1,6 @@
-#  <span style="color:green">Краткая информация обо мне</span>
+#  Краткая информация обо мне
 
-Привет, я Rinary
+<span style="color:green">Привет, я Rinary</span>
 
 В основном использую **Python**, **Blender** и базу данных **Sqlite3**, **Lua** не часто использую.
 
