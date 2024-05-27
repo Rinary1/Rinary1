@@ -1,4 +1,4 @@
-# Краткая информация обо мне
+ <span style="color:green"># Краткая информация обо мне
 
 Привет, я Rinary
 
@@ -7,7 +7,7 @@
 Я заинтересован в изучении **Java**, **JavaScript**.
 
 **Discord:** rinary
-
+</span>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF73A&vCenter=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 ## 📊 GitHub Статистика
