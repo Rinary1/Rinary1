@@ -1,5 +1,5 @@
 ## 👋 About Me
-💻 Backend Developer<br>
+💻 Fullstack Trainee Software Engineer<br>
 🚀 Interested in C#, Java in Game Modding, Game/Program Developing<br>
 🌱 Currently learning: **C#**
 
