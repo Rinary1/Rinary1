@@ -1,7 +1,6 @@
 ## 👋 About Me
 💻 Fullstack Trainee Software Engineer<br>
-🚀 Interested in C#, Java in Game Modding, Game/Program Developing<br>
-🌱 Currently learning: **C#**
+🚀 Working with .NET ASP Core, Orleans, Databases, UI(Blazor, XAML), Python<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
