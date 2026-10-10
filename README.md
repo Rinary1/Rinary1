@@ -7,7 +7,7 @@
 <div align="center">
     <section style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center; align-items: center;">
         <div>
-            <img src="https://github-stats-extended.vercel.app/api?username=Rinary1&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Rinary Github"/>
+            <img src="https://github-stats-extended.vercel.app/api?username=Rinary1&show_icons=true&theme=radical&hide_border=true&card_width=500&hide=stars&show=reviews&include_all_commits=true" alt="Rinary Github"/>
         </div>
         <div>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinary1&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak"/>
